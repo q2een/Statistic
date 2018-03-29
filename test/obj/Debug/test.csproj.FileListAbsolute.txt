@@ -1,0 +1,5 @@
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\bin\Debug\test.exe
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\bin\Debug\test.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Debug\test.exe
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Debug\test.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Debug\test.csprojResolveAssemblyReference.cache

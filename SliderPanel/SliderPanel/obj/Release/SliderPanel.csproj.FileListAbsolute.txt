@@ -1,0 +1,16 @@
+Q:\vsproj\LW1\SliderPanel\SliderPanel\bin\Release\SliderPanel.dll
+Q:\vsproj\LW1\SliderPanel\SliderPanel\bin\Release\SliderPanel.pdb
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Release\ResolveAssemblyReference.cache
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Release\SliderPanel.SliderPanel.resources
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Release\GenerateResource.read.1.tlog
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Release\GenerateResource.write.1.tlog
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Release\SliderPanel.dll
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Release\SliderPanel.pdb
+Q:\vsproj\LW2\SliderPanel\SliderPanel\bin\Release\SliderPanel.dll
+Q:\vsproj\LW2\SliderPanel\SliderPanel\bin\Release\SliderPanel.pdb
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Release\ResolveAssemblyReference.cache
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Release\SliderPanel.SliderPanel.resources
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Release\GenerateResource.read.1.tlog
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Release\GenerateResource.write.1.tlog
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Release\SliderPanel.dll
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Release\SliderPanel.pdb

@@ -1,0 +1,30 @@
+Q:\vsproj\SliderPanel\SliderPanel\bin\Debug\SliderPanel.dll
+Q:\vsproj\SliderPanel\SliderPanel\bin\Debug\SliderPanel.pdb
+Q:\vsproj\SliderPanel\SliderPanel\obj\Debug\ResolveAssemblyReference.cache
+Q:\vsproj\SliderPanel\SliderPanel\obj\Debug\SliderPanel.SliderPanel.resources
+Q:\vsproj\SliderPanel\SliderPanel\obj\Debug\GenerateResource.read.1.tlog
+Q:\vsproj\SliderPanel\SliderPanel\obj\Debug\GenerateResource.write.1.tlog
+Q:\vsproj\SliderPanel\SliderPanel\obj\Debug\SliderPanel.dll
+Q:\vsproj\SliderPanel\SliderPanel\obj\Debug\SliderPanel.pdb
+Q:\vsproj\LW1\SliderPanel\SliderPanel\bin\Debug\SliderPanel.dll
+Q:\vsproj\LW1\SliderPanel\SliderPanel\bin\Debug\SliderPanel.pdb
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Debug\ResolveAssemblyReference.cache
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Debug\SliderPanel.SliderPanel.resources
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Debug\GenerateResource.read.1.tlog
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Debug\GenerateResource.write.1.tlog
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Debug\SliderPanel.dll
+Q:\vsproj\LW1\SliderPanel\SliderPanel\obj\Debug\SliderPanel.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\SliderPanel\SliderPanel\bin\Debug\SliderPanel.dll
+E:\it's my\Drive\5й Курс\СМОД\LW2\SliderPanel\SliderPanel\bin\Debug\SliderPanel.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\SliderPanel\SliderPanel\obj\Debug\SliderPanel.SliderPanel.resources
+E:\it's my\Drive\5й Курс\СМОД\LW2\SliderPanel\SliderPanel\obj\Debug\SliderPanel.csproj.GenerateResource.Cache
+E:\it's my\Drive\5й Курс\СМОД\LW2\SliderPanel\SliderPanel\obj\Debug\SliderPanel.dll
+E:\it's my\Drive\5й Курс\СМОД\LW2\SliderPanel\SliderPanel\obj\Debug\SliderPanel.pdb
+Q:\vsproj\LW2\SliderPanel\SliderPanel\bin\Debug\SliderPanel.dll
+Q:\vsproj\LW2\SliderPanel\SliderPanel\bin\Debug\SliderPanel.pdb
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Debug\ResolveAssemblyReference.cache
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Debug\SliderPanel.SliderPanel.resources
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Debug\GenerateResource.read.1.tlog
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Debug\GenerateResource.write.1.tlog
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Debug\SliderPanel.dll
+Q:\vsproj\LW2\SliderPanel\SliderPanel\obj\Debug\SliderPanel.pdb

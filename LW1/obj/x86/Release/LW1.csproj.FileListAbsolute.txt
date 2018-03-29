@@ -1,0 +1,32 @@
+Q:\vsproj\LW1\LW1\bin\Release\LW1.exe
+Q:\vsproj\LW1\LW1\bin\Release\LW1.pdb
+Q:\vsproj\LW1\LW1\bin\Release\SliderPanel.dll
+Q:\vsproj\LW1\LW1\bin\Release\SliderPanel.pdb
+Q:\vsproj\LW1\LW1\obj\x86\Release\ResolveAssemblyReference.cache
+Q:\vsproj\LW1\LW1\obj\x86\Release\LW1.MainForm.resources
+Q:\vsproj\LW1\LW1\obj\x86\Release\LW1.Properties.Resources.resources
+Q:\vsproj\LW1\LW1\obj\x86\Release\GenerateResource.read.1.tlog
+Q:\vsproj\LW1\LW1\obj\x86\Release\GenerateResource.write.1.tlog
+Q:\vsproj\LW1\LW1\obj\x86\Release\LW1.exe
+Q:\vsproj\LW1\LW1\obj\x86\Release\LW1.pdb
+Q:\vsproj\LW2\LW1\obj\x86\Release\LW1.exe
+Q:\vsproj\LW2\LW1\obj\x86\Release\LW1.pdb
+Q:\vsproj\LW2\LW1\bin\Release\LW1.exe
+Q:\vsproj\LW2\LW1\bin\Release\LW1.pdb
+Q:\vsproj\LW2\LW1\bin\Release\SliderPanel.dll
+Q:\vsproj\LW2\LW1\bin\Release\SliderPanel.pdb
+Q:\vsproj\LW2\LW1\obj\x86\Release\ResolveAssemblyReference.cache
+Q:\vsproj\LW2\LW1\obj\x86\Release\LW1.MainForm.resources
+Q:\vsproj\LW2\LW1\obj\x86\Release\LW1.Properties.Resources.resources
+Q:\vsproj\LW2\LW1\obj\x86\Release\GenerateResource.read.1.tlog
+Q:\vsproj\LW2\LW1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\obj\x86\Release\LW1.exe
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\obj\x86\Release\LW1.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\bin\Release\LW1.exe
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\bin\Release\LW1.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\bin\Release\SliderPanel.dll
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\bin\Release\SliderPanel.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\obj\x86\Release\LW1.csprojResolveAssemblyReference.cache
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\obj\x86\Release\LW1.MainForm.resources
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\obj\x86\Release\LW1.Properties.Resources.resources
+E:\it's my\Drive\5й Курс\СМОД\LW2\LW1\obj\x86\Release\LW1.csproj.GenerateResource.Cache

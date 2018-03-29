@@ -1,0 +1,10 @@
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\bin\Release\test.exe
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\bin\Release\test.pdb
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Release\test.csprojResolveAssemblyReference.cache
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Release\test.exe
+E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Release\test.pdb
+Q:\vsproj\LW2\test\bin\Release\test.exe
+Q:\vsproj\LW2\test\bin\Release\test.pdb
+Q:\vsproj\LW2\test\obj\Release\ResolveAssemblyReference.cache
+Q:\vsproj\LW2\test\obj\Release\test.exe
+Q:\vsproj\LW2\test\obj\Release\test.pdb

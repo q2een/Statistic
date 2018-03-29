@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 8.0.30703
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LW1", "LW1\LW1.csproj", "{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderPanel", "SliderPanel\SliderPanel\SliderPanel.csproj", "{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{9553F1E0-19F3-420C-BFAD-776E06CA88B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Debug|x86.ActiveCfg = Debug|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Debug|x86.Build.0 = Debug|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Release|Any CPU.ActiveCfg = Release|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Release|x86.ActiveCfg = Release|x86
+		{D1575CF7-6B7F-43E2-BC06-8869E4526BF6}.Release|x86.Build.0 = Release|x86
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C0F4BFFD-094D-4299-9EA0-C42A9CFA6004}.Release|x86.ActiveCfg = Release|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Debug|x86.Build.0 = Debug|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Release|x86.ActiveCfg = Release|Any CPU
+		{9553F1E0-19F3-420C-BFAD-776E06CA88B4}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
