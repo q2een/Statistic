@@ -51,7 +51,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data.cs" />
-    <Compile Include="FourierTransform.cs" />
     <Compile Include="Harmonic.cs" />
     <Compile Include="HTMLReportBuilder.cs" />
     <Compile Include="MainForm.cs">

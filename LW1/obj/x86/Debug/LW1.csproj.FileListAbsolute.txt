@@ -1,0 +1,10 @@
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\obj\x86\Debug\LW1.csprojResolveAssemblyReference.cache
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\obj\x86\Debug\LW1.MainForm.resources
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\obj\x86\Debug\LW1.Properties.Resources.resources
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\obj\x86\Debug\LW1.csproj.GenerateResource.Cache
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\bin\Debug\LW1.exe
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\bin\Debug\LW1.pdb
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\bin\Debug\SliderPanel.dll
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\bin\Debug\SliderPanel.pdb
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\obj\x86\Debug\LW1.exe
+E:\it's my\univer\5-й\СМОД\Statistic\LW1\obj\x86\Debug\LW1.pdb

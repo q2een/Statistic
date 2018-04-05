@@ -151,6 +151,11 @@ namespace LW1
                     
                     break;
                 case 2:
+                    if (cbExponentialRegression.Checked)
+                    {
+                        DrawExpRegression();
+                        break;
+                    }
                     DrawRegressionChart();
                     break;
                 case 3:
@@ -415,6 +420,27 @@ namespace LW1
             
             var y = data.GetRegressionYFromXValue(regressionCoefficients);
             DrawSynthesisSeries("Линия тренда", y);
+        }
+
+        private void DrawExpRegression()
+        {
+            chart.Series[0].Points.Clear();
+            chart.Series["synthesisSeries"].Points.Clear();
+            chart.Series["synthesisSeries"].LegendText = "Линия тренда";
+            chart.Series["synthesisSeries"].Enabled = true;
+
+            var range = data.GetMaxPositiveRange();
+            var synthesisY = data.GetExpRegressinYFromX(data.GetExponentialRegression());
+            var xy = data.XY.Skip(range[0]).Take(range[1] - range[0] +1).ToArray();
+
+            foreach (var kv in xy)
+                chart.Series[0].Points.AddXY(kv.Key, kv.Value);
+
+            for (int i = 0; i < synthesisY.Length; i++)
+                chart.Series[1].Points.AddXY(xy[i].Key, synthesisY[i]);
+
+            chart.ChartAreas[0].AxisY.Minimum = Math.Round(xy.Select(x => x.Value).Min(), 2);
+            chart.ChartAreas[0].AxisY.Maximum = Math.Round(xy.Select(x => x.Value).Max(), 2);
         }
 
         private void DrowFourierChart()

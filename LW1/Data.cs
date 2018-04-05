@@ -211,6 +211,64 @@ namespace LW1
 
         #region Регрессия.
 
+        public double[] GetExponentialRegression()
+        {
+            var range = GetMaxPositiveRange();
+            double A = 0, B = 0, C = 0, D = 0;
+            double[] coefficients = new double[2];
+            int N = range[1] - range[0]+1;
+
+            for (int i = range[0]; i < range[1]+1; i++)
+            {
+                A += X[i];
+                B += Math.Log(Y[i]);
+                C += X[i] * X[i];
+                D += X[i] * Math.Log(Y[i]);
+            }
+            coefficients[1] = (A * B - N * D) / (A * A - N * C);
+            coefficients[0] = Math.Exp((B - coefficients[1] * A) / N);
+
+            return coefficients;
+        }
+
+        public double[] GetExpRegressinYFromX(double[] coefficients)
+        {
+            var res = new List<double>();
+            var range = GetMaxPositiveRange();
+            var xValues = X.Skip(range[0]).Take(range[1] - range[0]+1).ToArray();
+
+            foreach(var x in xValues)
+            {
+                res.Add(coefficients[0] * Math.Exp(coefficients[1] * x));
+            }
+
+            return res.ToArray();
+        }
+
+        public int[] GetMaxPositiveRange()
+        {
+            var dic = new Dictionary<int, int>();
+            int curindex = -1;
+            for (int i = 0; i < Length; i++)
+            {
+                if (Y[i] > 0)
+                {
+                    curindex = curindex > 0 ? curindex : i;
+                    continue;
+                }
+
+                if (curindex > 0)
+                {
+                    dic.Add(curindex, i-1);
+                    curindex = -1;
+                }
+            }
+
+            var z = dic.OrderByDescending(s => s.Value - s.Key).First();
+
+            return new int[] { z.Key, z.Value };
+        }
+
         /// <summary>
         /// Возвращает массив коэффициентов полинома y*(X), учитывая заданную погрешность.
         /// </summary>

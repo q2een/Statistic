@@ -113,6 +113,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
+            this.cbExponentialRegression = new System.Windows.Forms.CheckBox();
             this.tsMenu.SuspendLayout();
             this.tabsMain.SuspendLayout();
             this.tabData.SuspendLayout();
@@ -165,7 +166,7 @@
             // toolStripLabel1
             // 
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(75, 20);
+            this.toolStripLabel1.Size = new System.Drawing.Size(67, 20);
             this.toolStripLabel1.Text = "Вариант 10";
             // 
             // toolStripSeparator1
@@ -178,7 +179,7 @@
             this.btnCalulate.Image = global::LW1.Properties.Resources.build;
             this.btnCalulate.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnCalulate.Name = "btnCalulate";
-            this.btnCalulate.Size = new System.Drawing.Size(70, 20);
+            this.btnCalulate.Size = new System.Drawing.Size(64, 20);
             this.btnCalulate.Text = "Расчет";
             this.btnCalulate.Click += new System.EventHandler(this.btnCalulate_Click);
             // 
@@ -192,7 +193,7 @@
             this.btnReport.Image = global::LW1.Properties.Resources.reportMI;
             this.btnReport.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnReport.Name = "btnReport";
-            this.btnReport.Size = new System.Drawing.Size(62, 20);
+            this.btnReport.Size = new System.Drawing.Size(59, 20);
             this.btnReport.Text = "Отчет";
             this.btnReport.Click += new System.EventHandler(this.btnReport_Click);
             // 
@@ -206,7 +207,7 @@
             this.btnDrawGraphics.Image = global::LW1.Properties.Resources.chart;
             this.btnDrawGraphics.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnDrawGraphics.Name = "btnDrawGraphics";
-            this.btnDrawGraphics.Size = new System.Drawing.Size(71, 20);
+            this.btnDrawGraphics.Size = new System.Drawing.Size(68, 20);
             this.btnDrawGraphics.Text = "График";
             this.btnDrawGraphics.Click += new System.EventHandler(this.btnDrawGraphics_Click);
             // 
@@ -223,7 +224,7 @@
             // 
             this.toolStripLabel2.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             this.toolStripLabel2.Name = "toolStripLabel2";
-            this.toolStripLabel2.Size = new System.Drawing.Size(91, 20);
+            this.toolStripLabel2.Size = new System.Drawing.Size(86, 20);
             this.toolStripLabel2.Text = "Погрешность:";
             // 
             // tabsMain
@@ -487,6 +488,7 @@
             // 
             // tabRegression
             // 
+            this.tabRegression.Controls.Add(this.cbExponentialRegression);
             this.tabRegression.Controls.Add(this.tbRegPoints);
             this.tabRegression.Controls.Add(this.lblRegPoints);
             this.tabRegression.Controls.Add(this.cbIsDegree);
@@ -784,7 +786,7 @@
             // 
             this.panelData.Controls.Add(this.dgvData);
             this.panelData.Controls.Add(this.panel2);
-            this.panelData.Location = new System.Drawing.Point(3, 0);
+            this.panelData.Location = new System.Drawing.Point(0, 0);
             this.panelData.Name = "panelData";
             this.panelData.Padding = new System.Windows.Forms.Padding(0, 4, 2, 5);
             this.panelData.Size = new System.Drawing.Size(186, 195);
@@ -1040,6 +1042,16 @@
             this.toolTip.ToolTipTitle = "Подсказка";
             this.toolTip.UseAnimation = false;
             // 
+            // cbExponentialRegression
+            // 
+            this.cbExponentialRegression.AutoSize = true;
+            this.cbExponentialRegression.Location = new System.Drawing.Point(278, 14);
+            this.cbExponentialRegression.Name = "cbExponentialRegression";
+            this.cbExponentialRegression.Size = new System.Drawing.Size(179, 17);
+            this.cbExponentialRegression.TabIndex = 12;
+            this.cbExponentialRegression.Text = "Экспоненциальная регрессия";
+            this.cbExponentialRegression.UseVisualStyleBackColor = true;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1170,5 +1182,6 @@
         private System.Windows.Forms.TextBox tbRegPoints;
         private System.Windows.Forms.Label lblRegPoints;
         private System.Windows.Forms.Label lblFourierPoints;
+        private System.Windows.Forms.CheckBox cbExponentialRegression;
     }
 }

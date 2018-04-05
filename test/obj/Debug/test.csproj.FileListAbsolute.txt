@@ -3,3 +3,8 @@ E:\it's my\Drive\5й Курс\СМОД\LW2\test\bin\Debug\test.pdb
 E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Debug\test.exe
 E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Debug\test.pdb
 E:\it's my\Drive\5й Курс\СМОД\LW2\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\it's my\univer\5-й\СМОД\Statistic\test\obj\Debug\test.exe
+E:\it's my\univer\5-й\СМОД\Statistic\test\obj\Debug\test.pdb
+E:\it's my\univer\5-й\СМОД\Statistic\test\bin\Debug\test.exe
+E:\it's my\univer\5-й\СМОД\Statistic\test\bin\Debug\test.pdb
+E:\it's my\univer\5-й\СМОД\Statistic\test\obj\Debug\test.csprojResolveAssemblyReference.cache
